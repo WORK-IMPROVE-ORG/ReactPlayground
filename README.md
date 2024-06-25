@@ -14,3 +14,4 @@
 2. 간단한 README.md 작성
 3. Nextjs Project Structure 기본 생성
 4. Middleware.ts 통한 Routing 테스트
+5. Commit, Push TEST
