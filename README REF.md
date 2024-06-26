@@ -9,6 +9,10 @@
 
 
 ## 설치(TIPS)
+### File version
+1. IDE VSCODE: VSCodeUserSetup-x64-1.90.0
+2. Nodejs: node-v20.15.0-x64
+3. GIT: Git-2.45.2-64-bit
 ### Node - React - NextJS
 1. [개발환경, 프로젝트 생성](https://hotsunchip.tistory.com/11)
 2. [Tailwind CSS 간단한 정리](https://babycoder05.tistory.com/entry/Nextjs-TypeScript-Tailwind-CSS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Tailwind-CSS-%EC%9E%A5%EB%8B%A8%EC%A0%90)
