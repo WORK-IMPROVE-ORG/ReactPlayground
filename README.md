@@ -4,7 +4,7 @@
 1. 열심히 한다
 
 ### README WRITE RULES
-1. Readme 파일 마크다운문법 작성
+1. Readme 파일 [마크다운 문법](https://ko.wikipedia.org/wiki/마크다운) 작성
 2. 버전 내림차순 기록
 
 
