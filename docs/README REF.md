@@ -26,7 +26,8 @@
 1. [GIT 개발위한 설치](https://goddaehee.tistory.com/216)
 2. [VSCODE 연동](https://usingu.co.kr/frontend/vscode/vscode-github-로그인하기)
 3. [GIT Terminal Command Error](https://korbear.tistory.com/74)
-
+4. [GIT 사용을 위한 개발자 개인 토큰 발급](https://velog.io/@nara7875/github-%ED%86%A0%ED%81%B0-%EB%B0%9C%EA%B8%89%ED%95%98%EA%B8%B0)
+5. GIT - SOURCETREE 연동을 위한 URL 등록: https://{UserName}:{Token}@github.com/WORK-IMPROVE-ORG/ReactPlayground.git
 
 ## 기타
 [마크다운 문법](https://ko.wikipedia.org/wiki/마크다운)
