@@ -3,8 +3,8 @@
 ### PROJECT RULES
 #### 1. 열심히 한다
 #### 2. README_* 다른 파일 확인해 주세요
-1. [개발 및 학습 과정](README_STUDY_TOPICS.md)
-2. [개발 레퍼런스](<README REF.md>)
+1. [개발 및 학습 과정](docs/README_STUDY_TOPICS.md)
+2. [개발 레퍼런스](<docs/README REF.md>)
 
 ### README WRITE RULES
 1. Readme 파일 [마크다운 문법](https://ko.wikipedia.org/wiki/마크다운) 작성
