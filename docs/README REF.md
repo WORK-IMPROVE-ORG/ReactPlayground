@@ -13,6 +13,8 @@
 1. IDE VSCODE: VSCodeUserSetup-x64-1.90.0
 2. Nodejs: node-v20.15.0-x64
 3. GIT: Git-2.45.2-64-bit
+4. SOURCETREE: SourceTreeSetup-3.4.18
+
 ### Node - React - NextJS
 1. [개발환경, 프로젝트 생성](https://hotsunchip.tistory.com/11)
 2. [Tailwind CSS 간단한 정리](https://babycoder05.tistory.com/entry/Nextjs-TypeScript-Tailwind-CSS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Tailwind-CSS-%EC%9E%A5%EB%8B%A8%EC%A0%90)
@@ -24,7 +26,8 @@
 1. [GIT 개발위한 설치](https://goddaehee.tistory.com/216)
 2. [VSCODE 연동](https://usingu.co.kr/frontend/vscode/vscode-github-로그인하기)
 3. [GIT Terminal Command Error](https://korbear.tistory.com/74)
-
+4. [GIT 사용을 위한 개발자 개인 토큰 발급](https://velog.io/@nara7875/github-%ED%86%A0%ED%81%B0-%EB%B0%9C%EA%B8%89%ED%95%98%EA%B8%B0)
+5. GIT - SOURCETREE 연동을 위한 URL 등록: https://{UserName}:{Token}@github.com/WORK-IMPROVE-ORG/ReactPlayground.git
 
 ## 기타
 [마크다운 문법](https://ko.wikipedia.org/wiki/마크다운)
