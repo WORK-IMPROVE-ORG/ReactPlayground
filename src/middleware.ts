@@ -4,10 +4,13 @@ import type { NextRequest  } from 'next/server'
 // This function can be marked `async` if using `await` inside
 export function middleware(request: NextRequest) {
     console.log('middleware pathname', request.nextUrl.pathname, request.url)
-    if (request.nextUrl.pathname.startsWith('/home')) {
-        return NextResponse.rewrite(new URL('/', request.url))
-    }
-    if (request.nextUrl.pathname.startsWith('/common/errors')) {
+    if (
+        request.nextUrl.pathname === '/'
+        ||
+        request.nextUrl.pathname.startsWith('/common/errors')
+        ||
+        request.nextUrl.pathname.startsWith('/dashboard')
+    ) {
         return NextResponse.next()
     }
     return NextResponse.redirect(new URL('/common/errors/404', request.url))
